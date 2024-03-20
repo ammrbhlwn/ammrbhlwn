@@ -1,11 +1,3 @@
-# Halo semua! 
- 
-Perkenalkan nama saya **Muammar Bahalwan**.<br>
- 
-Saya seorang **Mahasiswa Teknik Informatika** di [Institut Teknologi Sepuluh Nopember](https://www.its.ac.id).<br>
- 
-Jika kamu tertarik untuk berkenalan dengan saya, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muammarbahalwan/) saya.
- 
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/ammrbhlwn">
